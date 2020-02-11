@@ -1,15 +1,18 @@
-## Welcome to GitHub Pages
+## Bem vindo ao Muuu Page
 
-You can use the [editor on GitHub](https://github.com/JuniorArrudaa/Muuu/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+O Muuu é um projeto de pesquisa que estuda o desenvolvimento de metodologia automática para medição da
+qualidade de leite em tanques de expansão.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+O projeto de pesquisa visa determinar qual metodologia e conjunto de ferramentas melhor se adapta aos requisitos para medição dos parâmetros de qualidade de leite de acordo com as normas regulatórias.
 
-### Markdown
+### Visitas a Fazendas e Queijeiras
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Visita realizada na data: 14/08/2019 , O local da fazenda fica na AV.Sigefredo Diógenes,Logo abaixo da ponte.
 
-```markdown
-Syntax highlighted code block
+Imagem 1 (Fazenda próxima a ponte na AV.Sigefredo Diógenes )
+
+O método usado para a retirada do leite é manual sem nenhum tipo de tecnologia auxiliar, o processo se inicia às 4:30 da manhã, o rapaz chega e tira a vaca do local onde ela passou a noite, antes do processo da retirada do leite o rapaz que conduzirá o processo lava as mãos com detergente comum posteriormente ele prende a vaca para começar o processo da retirada do leite. Foi observado que o ambiente não foi higienizado antes do início da retirada de leite, coisa que possivelmente afetará a qualidade do leite se houver bactérias nocivas que venha contaminar o leite pelo ar ou contato direto. O leite é despejado em um balde  simples  de alumínio foi retirado no mínimo 5 baldes cheios de leite após o processo de retirada o leite é despejado em Vasilhame Latão Para Leite parecido com a imagem 2.
+
 
 # Header 1
 ## Header 2
@@ -24,14 +27,3 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JuniorArrudaa/Muuu/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
